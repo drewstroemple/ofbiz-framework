@@ -70,7 +70,7 @@ For more details about OFBiz please visit the OFBiz Documentation page:
 
 The only requirements to run OFBiz are
 
-* to have the Java Development Kit (JDK) version 17 installed on your system
+* to have the Java Development Kit (JDK) version 21 installed on your system
 (not just the JRE, but the full JDK) that you can download from the link below.
 Make sure to set the `$JAVA_HOME` environment variable.  
 [JDK download](https://adoptopenjdk.net/). 
